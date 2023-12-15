@@ -1,0 +1,85 @@
+.f{
+    background-color: #FEEAE9;
+}
+.botam{
+    background-color: #FEEAE9;
+    border:none;
+}
+.row{
+    display:flex;
+}
+.t{
+    padding-top: 100px;
+
+}
+.card1{
+    background-color: orange;
+    color:grey;
+    width: 350px;
+    height: 150px;
+    margin-top: 4px;
+    margin-right: 20px;
+    margin-bottom: 4px;
+    border-radius: 10px;
+    display: flex;
+
+}
+.card1 h1{
+   text-align: center;
+   padding: 30px;
+}
+.card2 h1{
+    text-align: center;
+    padding: 30px;
+ }
+ .card3 h1{
+    text-align: center;
+    padding: 30px;
+ }
+.card2{
+    background-color: deeppink;
+    color:grey;
+    width: 350px;
+    height: 150px;
+    margin-top: 4px;
+    margin-right: 20px;
+    margin-bottom: 4px;
+    border-radius: 10px;
+    display: flex;
+
+}
+.card3{
+    background-color:green;
+    color:grey;
+    width: 350px;
+    height: 150px;
+    margin-top: 4px;
+    margin-right: 20px;
+    margin-bottom: 4px;
+    border-radius: 10px;
+    display: flex;   
+}
+.div{
+    margin:0px;
+    padding: 0px;
+}
+
+.all-card{
+display: grid;
+grid-template-columns: repeat(3,1fr);
+width:500px;
+gap: 40px;
+
+}
+.re{
+    width:1200px;
+    height: 200px;
+    margin:25px;
+}
+
+.chobi{
+ width: 150px;
+ margin-left: 30px;
+
+ 
+}
