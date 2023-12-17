@@ -2,7 +2,8 @@
     background-color: #FEEAE9;
 }
 .botam{
-    background-color: #FEEAE9;
+    background-color: deeppink;
+    color:#FFFFFF;
     border:none;
 }
 .row{
@@ -10,7 +11,11 @@
 }
 .t{
     padding-top: 100px;
+    
 
+}
+.text{
+    color: #d63384;
 }
 .card1{
     background-color: orange;
