@@ -1,5 +1,9 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .f{
     background-color: #FEEAE9;
+    border-radius: 80px;
 }
 .botam{
     background-color: deeppink;
@@ -10,12 +14,14 @@
     display:flex;
 }
 .t{
-    padding-top: 100px;
-    
-
+padding-top:100px;
 }
 .text{
     color: #d63384;
+}
+.text1{
+    font-size:56px;
+    font-weight:bold;
 }
 .card1{
     background-color: orange;
@@ -84,7 +90,8 @@ gap: 40px;
 
 .chobi{
  width: 150px;
- margin-left: 30px;
-
- 
+ margin-left:30px;
+}
+.shoes-bag{
+    margin-left:22px;
 }
